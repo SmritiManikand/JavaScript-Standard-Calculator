@@ -158,4 +158,5 @@ function calculate() {
 
 ## OUTPUT
 
+<img width="959" alt="output" src="https://github.com/SmritiManikand/JavaScript-Standard-Calculator/assets/113674204/8e97065c-aae4-42b1-a1f9-71b8136359e3">
 
